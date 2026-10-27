@@ -1,0 +1,17 @@
+.env
+*.db
+*.db-wal
+*.db-shm
+__pycache__/
+*.pyc
+.venv/
+venv/
+summary.json
+tier.txt
+bot.log*
+bot.out
+bot.err
+bot.pid
+
+.sync_state
+.role_state

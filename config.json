@@ -1,0 +1,35 @@
+{
+  "quorum": 1,
+  "vote_duration_sec": 60,
+  "cap_per_case": 15,
+  "unanimous_n": 4,
+  "unanimous_pt": 2,
+  "false_min_n": 5,
+  "false_ratio": 3,
+  "repeat_mult": 1.0,
+  "daily_cap": 0,
+
+  "extend_threshold_sec": 30,
+  "extend_sec": 30,
+  "extend_max_sec": 120,
+
+  "notify_channel_id": "",
+
+  "rank_roles": ["レジェンド妖怪", "Sランク妖怪", "Aランク妖怪"],
+  "rank_role_color": "#A8402F",
+  "rank_role_hoist": true,
+  "crown_emoji": "👑",
+
+  "report_max_age_days": 7,
+
+  "expire_days": 0,
+  "expire_manual": true,
+  "role_sync_sec": 600,
+
+  "monthly_reset": false,
+  "create_thread": false,
+  "members_only_voting": true,
+  "heartbeat_sec": 30,
+  "lock_port": 53997,
+  "timezone_offset_hours": 9
+}
